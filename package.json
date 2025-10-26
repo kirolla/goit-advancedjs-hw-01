@@ -1,0 +1,23 @@
+{
+  "name": "goit-advancedjs-hw-01",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base=/goit-advancedjs-hw-01/",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "postcss-cli": "^11.0.1",
+    "postcss-sort-media-queries": "^5.2.0",
+    "prettier": "^3.6.2",
+    "vite": "^7.1.11",
+    "vite-plugin-full-reload": "^1.2.0",
+    "vite-plugin-html-inject": "^1.1.2"
+  },
+  "dependencies": {
+    "glob": "^11.0.3",
+    "simplelightbox": "^2.14.3"
+  }
+}
+
