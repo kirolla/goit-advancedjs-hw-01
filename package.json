@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "cssnano": "^7.1.1",
+    "gh-pages": "^6.3.0",
     "postcss-cli": "^11.0.1",
     "postcss-sort-media-queries": "^5.2.0",
     "prettier": "^3.6.2",
@@ -20,4 +22,3 @@
     "simplelightbox": "^2.14.3"
   }
 }
-
